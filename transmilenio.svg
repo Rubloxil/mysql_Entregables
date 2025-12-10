@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="-15 51 1166 707" width="1181px" height="656px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+   <line x1="670" y1="316" x2="660" y2="316" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="427" y1="412" x2="417" y2="412" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="660" y1="316" x2="427" y2="412" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="662.5" y1="316" x2="666.03553390593" y2="319.53553390593" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="662.5" y1="316" x2="666.03553390593" y2="312.46446609407" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="422" y1="412" x2="425.53553390593" y2="415.53553390593" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="422" y1="412" x2="425.53553390593" y2="408.46446609407" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="670" y1="336" x2="660" y2="336" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="190" y1="597" x2="180" y2="597" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="660" y1="336" x2="190" y2="597" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="662.5" y1="336" x2="666.03553390593" y2="339.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="662.5" y1="336" x2="666.03553390593" y2="332.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="185" y1="597" x2="188.53553390593" y2="600.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="185" y1="597" x2="188.53553390593" y2="593.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="670" y1="356" x2="660" y2="356" style="stroke:#b0b;stroke-width:1;"/>
+   <line x1="366" y1="246" x2="356" y2="246" style="stroke:#b0b;stroke-width:1;"/>
+   <line x1="660" y1="356" x2="366" y2="246" style="stroke:#b0b;stroke-width:1;"/>
+   <line x1="662.5" y1="356" x2="666.03553390593" y2="359.53553390593" style="stroke:#b0b;stroke-width:2;"/>
+   <line x1="662.5" y1="356" x2="666.03553390593" y2="352.46446609407" style="stroke:#b0b;stroke-width:2;"/>
+   <line x1="361" y1="246" x2="364.53553390593" y2="249.53553390593" style="stroke:#b0b;stroke-width:2;"/>
+   <line x1="361" y1="246" x2="364.53553390593" y2="242.46446609407" style="stroke:#b0b;stroke-width:2;"/>
+   <line x1="670" y1="376" x2="660" y2="376" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="562" y1="602" x2="552" y2="602" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="660" y1="376" x2="562" y2="602" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="662.5" y1="376" x2="666.03553390593" y2="379.53553390593" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="662.5" y1="376" x2="666.03553390593" y2="372.46446609407" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="557" y1="602" x2="560.53553390593" y2="605.53553390593" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="557" y1="602" x2="560.53553390593" y2="598.46446609407" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="180" y1="657" x2="190" y2="657" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="1054" y1="396" x2="1064" y2="396" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="190" y1="657" x2="1054" y2="396" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="187.5" y1="657" x2="183.96446609407" y2="660.53553390593" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="187.5" y1="657" x2="183.96446609407" y2="653.46446609407" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="1059" y1="396" x2="1055.4644660941" y2="399.53553390593" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="1059" y1="396" x2="1055.4644660941" y2="392.46446609407" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="129" y1="156" x2="139" y2="156" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="249" y1="246" x2="259" y2="246" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="139" y1="156" x2="249" y2="246" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="136.5" y1="156" x2="132.96446609407" y2="159.53553390593" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="136.5" y1="156" x2="132.96446609407" y2="152.46446609407" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="254" y1="246" x2="250.46446609407" y2="249.53553390593" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="254" y1="246" x2="250.46446609407" y2="242.46446609407" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="151" y1="434" x2="161" y2="434" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="249" y1="246" x2="259" y2="246" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="161" y1="434" x2="249" y2="246" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="158.5" y1="434" x2="154.96446609407" y2="437.53553390593" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="158.5" y1="434" x2="154.96446609407" y2="430.46446609407" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="254" y1="246" x2="250.46446609407" y2="249.53553390593" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="254" y1="246" x2="250.46446609407" y2="242.46446609407" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="854" y1="609" x2="844" y2="609" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="366" y1="246" x2="356" y2="246" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="844" y1="609" x2="366" y2="246" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="846.5" y1="609" x2="850.03553390593" y2="612.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="846.5" y1="609" x2="850.03553390593" y2="605.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="361" y1="246" x2="364.53553390593" y2="249.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="361" y1="246" x2="364.53553390593" y2="242.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="963" y1="629" x2="973" y2="629" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="918" y1="258" x2="928" y2="258" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="973" y1="629" x2="918" y2="258" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="970.5" y1="629" x2="966.96446609407" y2="632.53553390593" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="970.5" y1="629" x2="966.96446609407" y2="625.46446609407" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="923" y1="258" x2="919.46446609407" y2="261.53553390593" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="923" y1="258" x2="919.46446609407" y2="254.46446609407" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="446" y1="682" x2="436" y2="682" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="190" y1="597" x2="180" y2="597" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="436" y1="682" x2="190" y2="597" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="438.5" y1="682" x2="442.03553390593" y2="685.53553390593" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="438.5" y1="682" x2="442.03553390593" y2="678.46446609407" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="185" y1="597" x2="188.53553390593" y2="600.53553390593" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="185" y1="597" x2="188.53553390593" y2="593.46446609407" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="1050" y1="298" x2="1060" y2="298" style="stroke:#333;stroke-width:1;"/>
+   <line x1="1054" y1="396" x2="1064" y2="396" style="stroke:#333;stroke-width:1;"/>
+   <line x1="1060" y1="298" x2="1054" y2="396" style="stroke:#333;stroke-width:1;"/>
+   <line x1="1057.5" y1="298" x2="1053.9644660941" y2="301.53553390593" style="stroke:#333;stroke-width:2;"/>
+   <line x1="1057.5" y1="298" x2="1053.9644660941" y2="294.46446609407" style="stroke:#333;stroke-width:2;"/>
+   <line x1="1059" y1="396" x2="1055.4644660941" y2="399.53553390593" style="stroke:#333;stroke-width:2;"/>
+   <line x1="1059" y1="396" x2="1055.4644660941" y2="392.46446609407" style="stroke:#333;stroke-width:2;"/>
+   <rect width="117" height="20" x="670" y="226" style="fill:#007;stroke:black;"/>
+   <text width="117" height="20" x="675" y="240" style="fill:#fff;" font-family="Arial" font-size="16px"> bus</text>
+   <rect width="117" height="20" x="670" y="246" style="fill:#aea;stroke:black;"/>
+   <text width="117" height="20" x="675" y="260" style="fill:black;" font-family="Arial" font-size="16px">id_bus</text>
+   <rect width="117" height="20" x="670" y="266" style="fill:none;stroke:black;"/>
+   <text width="117" height="20" x="675" y="280" style="fill:black;" font-family="Arial" font-size="16px">placa</text>
+   <rect width="117" height="20" x="670" y="286" style="fill:none;stroke:black;"/>
+   <text width="117" height="20" x="675" y="300" style="fill:black;" font-family="Arial" font-size="16px">capacidad</text>
+   <rect width="117" height="20" x="670" y="306" style="fill:none;stroke:black;"/>
+   <text width="117" height="20" x="675" y="320" style="fill:black;" font-family="Arial" font-size="16px">id_tipo_vehiculo</text>
+   <rect width="117" height="20" x="670" y="326" style="fill:none;stroke:black;"/>
+   <text width="117" height="20" x="675" y="340" style="fill:black;" font-family="Arial" font-size="16px">id_conductor</text>
+   <rect width="117" height="20" x="670" y="346" style="fill:none;stroke:black;"/>
+   <text width="117" height="20" x="675" y="360" style="fill:black;" font-family="Arial" font-size="16px">id_ruta</text>
+   <rect width="117" height="20" x="670" y="366" style="fill:none;stroke:black;"/>
+   <text width="117" height="20" x="675" y="380" style="fill:black;" font-family="Arial" font-size="16px">id_turno</text>
+   <rect width="140" height="20" x="40" y="567" style="fill:#007;stroke:black;"/>
+   <text width="140" height="20" x="45" y="581" style="fill:#fff;" font-family="Arial" font-size="16px"> conductores</text>
+   <rect width="140" height="20" x="40" y="587" style="fill:#aea;stroke:black;"/>
+   <text width="140" height="20" x="45" y="601" style="fill:black;" font-family="Arial" font-size="16px">id_conductor</text>
+   <rect width="140" height="20" x="40" y="607" style="fill:none;stroke:black;"/>
+   <text width="140" height="20" x="45" y="621" style="fill:black;" font-family="Arial" font-size="16px">nombre_conductor</text>
+   <rect width="140" height="20" x="40" y="627" style="fill:none;stroke:black;"/>
+   <text width="140" height="20" x="45" y="641" style="fill:black;" font-family="Arial" font-size="16px">num_documento</text>
+   <rect width="140" height="20" x="40" y="647" style="fill:none;stroke:black;"/>
+   <text width="140" height="20" x="45" y="661" style="fill:black;" font-family="Arial" font-size="16px">id_rol</text>
+   <rect width="129" height="20" x="0" y="66" style="fill:#007;stroke:black;"/>
+   <text width="129" height="20" x="5" y="80" style="fill:#fff;" font-family="Arial" font-size="16px"> estaciones</text>
+   <rect width="129" height="20" x="0" y="86" style="fill:#aea;stroke:black;"/>
+   <text width="129" height="20" x="5" y="100" style="fill:black;" font-family="Arial" font-size="16px">id_estacion</text>
+   <rect width="129" height="20" x="0" y="106" style="fill:none;stroke:black;"/>
+   <text width="129" height="20" x="5" y="120" style="fill:black;" font-family="Arial" font-size="16px">nombre_estacion</text>
+   <rect width="129" height="20" x="0" y="126" style="fill:none;stroke:black;"/>
+   <text width="129" height="20" x="5" y="140" style="fill:black;" font-family="Arial" font-size="16px">ubicacion</text>
+   <rect width="129" height="20" x="0" y="146" style="fill:none;stroke:black;"/>
+   <text width="129" height="20" x="5" y="160" style="fill:black;" font-family="Arial" font-size="16px">id_ruta</text>
+   <rect width="99" height="20" x="52" y="384" style="fill:#007;stroke:black;"/>
+   <text width="99" height="20" x="57" y="398" style="fill:#fff;" font-family="Arial" font-size="16px"> horarios</text>
+   <rect width="99" height="20" x="52" y="404" style="fill:#aea;stroke:black;"/>
+   <text width="99" height="20" x="57" y="418" style="fill:black;" font-family="Arial" font-size="16px">id_horario</text>
+   <rect width="99" height="20" x="52" y="424" style="fill:none;stroke:black;"/>
+   <text width="99" height="20" x="57" y="438" style="fill:black;" font-family="Arial" font-size="16px">id_ruta</text>
+   <rect width="99" height="20" x="52" y="444" style="fill:none;stroke:black;"/>
+   <text width="99" height="20" x="57" y="458" style="fill:black;" font-family="Arial" font-size="16px">hora_salida</text>
+   <rect width="99" height="20" x="52" y="464" style="fill:none;stroke:black;"/>
+   <text width="99" height="20" x="57" y="478" style="fill:black;" font-family="Arial" font-size="16px">hora_llegada</text>
+   <rect width="109" height="20" x="854" y="519" style="fill:#007;stroke:black;"/>
+   <text width="109" height="20" x="859" y="533" style="fill:#fff;" font-family="Arial" font-size="16px"> portales</text>
+   <rect width="109" height="20" x="854" y="539" style="fill:#aea;stroke:black;"/>
+   <text width="109" height="20" x="859" y="553" style="fill:black;" font-family="Arial" font-size="16px">id_portal</text>
+   <rect width="109" height="20" x="854" y="559" style="fill:none;stroke:black;"/>
+   <text width="109" height="20" x="859" y="573" style="fill:black;" font-family="Arial" font-size="16px">nombre_portal</text>
+   <rect width="109" height="20" x="854" y="579" style="fill:none;stroke:black;"/>
+   <text width="109" height="20" x="859" y="593" style="fill:black;" font-family="Arial" font-size="16px">ubicacion</text>
+   <rect width="109" height="20" x="854" y="599" style="fill:none;stroke:black;"/>
+   <text width="109" height="20" x="859" y="613" style="fill:black;" font-family="Arial" font-size="16px">id_ruta</text>
+   <rect width="109" height="20" x="854" y="619" style="fill:none;stroke:black;"/>
+   <text width="109" height="20" x="859" y="633" style="fill:black;" font-family="Arial" font-size="16px">id_usuario</text>
+   <rect width="87" height="20" x="1064" y="366" style="fill:#007;stroke:black;"/>
+   <text width="87" height="20" x="1069" y="380" style="fill:#fff;" font-family="Arial" font-size="16px"> rol</text>
+   <rect width="87" height="20" x="1064" y="386" style="fill:#aea;stroke:black;"/>
+   <text width="87" height="20" x="1069" y="400" style="fill:black;" font-family="Arial" font-size="16px">id_rol</text>
+   <rect width="87" height="20" x="1064" y="406" style="fill:none;stroke:black;"/>
+   <text width="87" height="20" x="1069" y="420" style="fill:black;" font-family="Arial" font-size="16px">nombre_rol</text>
+   <rect width="97" height="20" x="259" y="216" style="fill:#007;stroke:black;"/>
+   <text width="97" height="20" x="264" y="230" style="fill:#fff;" font-family="Arial" font-size="16px"> rutas</text>
+   <rect width="97" height="20" x="259" y="236" style="fill:#aea;stroke:black;"/>
+   <text width="97" height="20" x="264" y="250" style="fill:black;" font-family="Arial" font-size="16px">id_ruta</text>
+   <rect width="97" height="20" x="259" y="256" style="fill:none;stroke:black;"/>
+   <text width="97" height="20" x="264" y="270" style="fill:black;" font-family="Arial" font-size="16px">nombre_ruta</text>
+   <rect width="117" height="20" x="300" y="382" style="fill:#007;stroke:black;"/>
+   <text width="117" height="20" x="305" y="396" style="fill:#fff;" font-family="Arial" font-size="16px"> tipo_bus</text>
+   <rect width="117" height="20" x="300" y="402" style="fill:#aea;stroke:black;"/>
+   <text width="117" height="20" x="305" y="416" style="fill:black;" font-family="Arial" font-size="16px">id_tipo_vehiculo</text>
+   <rect width="117" height="20" x="300" y="422" style="fill:none;stroke:black;"/>
+   <text width="117" height="20" x="305" y="436" style="fill:black;" font-family="Arial" font-size="16px">nombre_tipo</text>
+   <rect width="106" height="20" x="446" y="572" style="fill:#007;stroke:black;"/>
+   <text width="106" height="20" x="451" y="586" style="fill:#fff;" font-family="Arial" font-size="16px"> turnos</text>
+   <rect width="106" height="20" x="446" y="592" style="fill:#aea;stroke:black;"/>
+   <text width="106" height="20" x="451" y="606" style="fill:black;" font-family="Arial" font-size="16px">id_turno</text>
+   <rect width="106" height="20" x="446" y="612" style="fill:none;stroke:black;"/>
+   <text width="106" height="20" x="451" y="626" style="fill:black;" font-family="Arial" font-size="16px">numero_turno</text>
+   <rect width="106" height="20" x="446" y="632" style="fill:none;stroke:black;"/>
+   <text width="106" height="20" x="451" y="646" style="fill:black;" font-family="Arial" font-size="16px">hora_inicio</text>
+   <rect width="106" height="20" x="446" y="652" style="fill:none;stroke:black;"/>
+   <text width="106" height="20" x="451" y="666" style="fill:black;" font-family="Arial" font-size="16px">hora_fin</text>
+   <rect width="106" height="20" x="446" y="672" style="fill:none;stroke:black;"/>
+   <text width="106" height="20" x="451" y="686" style="fill:black;" font-family="Arial" font-size="16px">id_conductor</text>
+   <rect width="122" height="20" x="928" y="228" style="fill:#007;stroke:black;"/>
+   <text width="122" height="20" x="933" y="242" style="fill:#fff;" font-family="Arial" font-size="16px"> usuario</text>
+   <rect width="122" height="20" x="928" y="248" style="fill:#aea;stroke:black;"/>
+   <text width="122" height="20" x="933" y="262" style="fill:black;" font-family="Arial" font-size="16px">id_usuario</text>
+   <rect width="122" height="20" x="928" y="268" style="fill:none;stroke:black;"/>
+   <text width="122" height="20" x="933" y="282" style="fill:black;" font-family="Arial" font-size="16px">nombre_usuario</text>
+   <rect width="122" height="20" x="928" y="288" style="fill:none;stroke:black;"/>
+   <text width="122" height="20" x="933" y="302" style="fill:black;" font-family="Arial" font-size="16px">id_rol</text>
+</svg>
