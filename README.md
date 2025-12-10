@@ -25,7 +25,7 @@ Desarrollar y documentar diferentes ejercicios y proyectos prácticos utilizando
 
 ## 🚀 Tecnologías Utilizadas
 - **MySQL**  
-- **VScode/pulling(PUML)** (o la herramienta que estés usando)  
+- **VScode**   
 - **Git & GitHub**
 ---
 
